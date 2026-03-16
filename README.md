@@ -41,8 +41,4 @@ Seguridad y Acceso
 - Política de acceso: solo personal autorizado
 - Política de seguridad: firewalls y sistemas de detección de intrusos
 
-Galería de Imágenes
-
-- Imágenes de SKA-LOW y SKA-MID disponibles en la página web de SKA
-
 ✅ Este resumen destaca los puntos clave del proyecto y proporciona una visión general de los telescopios SKA-LOW y SKA-MID.
