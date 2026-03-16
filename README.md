@@ -1,5 +1,6 @@
 # -ANALISTA-DATOS-SKA
 Proyecto de portafolio de analista de datos sobre los telescopios SKA-LOW y SKA-MID 
+
 Introducción
 El proyecto consiste en investigar y crear un portafolio de analista de datos sobre los telescopios SKA-LOW y SKA-MID, destacando sus características técnicas, proyectos de investigación y resultados obtenidos.
 
